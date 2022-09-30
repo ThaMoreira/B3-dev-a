@@ -13,5 +13,6 @@ public class Questao5 {
         double inches = sc.nextDouble();
         double centimeters = inches*2.54;
         System.out.print(inches + " inches converted in centimeters is " + centimeters + " cm" );
+        }
     }
-}
+
